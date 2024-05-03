@@ -14,7 +14,7 @@
   --pink-lt: #FFB6C1;
   --purple-dk: #e64178;
   --purple-md: #fd0a5b;
-  
+  --color-bg: linear-gradient(to top,#fd619d,#f5a9bc,#fcd2d9,#fdebeb);
   --neutral-dk: #333;
   --neutral-md: #999;
   --neutral-mdlt: lightgray;
@@ -26,7 +26,7 @@
 
 /* MAIN STYLES */
 body {
-  background: var(--pink-lt); 
+  background: var(--color-bg); 
   font-family: var(--font-sans);
 }
 p {
