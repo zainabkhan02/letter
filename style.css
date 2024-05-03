@@ -8,12 +8,12 @@
 }
 :root {
   /* COLORS */
-  --red-dk: #BA0025;
+   --red-dk: #BA0025;
   --red-md: #DC143C;
   --pink-dk: #EB0674;
   --pink-lt: #FFB6C1;
-  --purple-dk: #98006A;
-  --purple-md: #CE0090;
+  --purple-dk: #e64178;
+  --purple-md: #fd0a5b;
   
   --neutral-dk: #333;
   --neutral-md: #999;
