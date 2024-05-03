@@ -30,6 +30,7 @@ body {
   font-family: var(--font-sans);
 }
 p {
+  font-family: var(--font-display);
   font-size: 20px;
   margin: 20px 0;
 }
