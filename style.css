@@ -61,6 +61,8 @@ article {
 }
 .message-2 {
   display: none;
+  top: -50px;
+  position: relative;
 }
 
 /* ENVELOPE */
